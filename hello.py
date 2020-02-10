@@ -1,2 +1,4 @@
 print “init hello”
-set exit=1
+import os
+os.system("ls -ah")
+
